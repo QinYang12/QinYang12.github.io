@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Electronic and Information Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China, 2017
+* Ph.D in Computer Science and Technology, Shanghai Jiao Tong University (SJTU), Shanghai, China, 2022 (expected)
 
 Work experience
 ======
@@ -27,14 +26,6 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
