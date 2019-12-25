@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "About Qin Yang"
 excerpt: "About me"
