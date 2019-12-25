@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -243,7 +243,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: False
+      share: true
 
 # Sass/SCSS
 sass:
