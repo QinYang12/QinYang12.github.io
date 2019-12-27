@@ -3,7 +3,7 @@ title: "Single and Sequential VIEWPORTS Prediction for 360-Degree Video Streamin
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2019-06-1
-venue: 'IEEE Int'l Symposium on Circuits & Systems (ISCAS)'
-citation: 'Qin Yang, Junni Zou, Kexin Tang, Chenglin Li, Hongkai Xiong, “Single and Sequential VIEWPORTS Prediction for 360-Degree Video Streaming”, IEEE Int'l Symposium on Circuits & Systems (ISCAS’2019), Sapporo, Japan, May 2019.'
+venue: 'IEEE Journal of Selected Topics in Signal Processing (JSTSP)'
+citation: 'Junni Zou, Chenglin Li, Chengming Liu, Qin Yang, Hongkai Xiong, Eckehard Steinbach, “Probabilistic Tile Visibility-Based Server-Side Rate Adaptation for Adaptive 360-Degree Video Streaming”, accepted by IEEE Journal of Selected Topics in Signal Processing (JSTSP’2019).'
 ---
 [Download paper here](http://QinYang12.github.io/files/paper1.pdf)
