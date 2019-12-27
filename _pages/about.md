@@ -11,16 +11,10 @@ redirect_from:
 {% include base_path %}
 
 
-Rm. 304, No.1 SEIEE Building, 800 Dongchuan Rd.
+I am a third year Ph.D. student at Shanghai Jiao Tong University. I am part of the MIN LAB. advised by
+Prof. Junni Zou and Prof. Hongkai Xiong. 
+Prior to SJTU, I obtained my B.Eng. degree in Electronic and Information Engineering from University of Electronic Science and Technology of China (UESTC) in 2017
 
-Email: yangqin@sjtu.edu.cn
-
-Shanghai, 200240, P.R. China
-
-Education
-======
-* B.Eng. in Electronic and Information Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China, 2017
-* Ph.D in Computer Science and Technology, Shanghai Jiao Tong University (SJTU), Shanghai, China, 2022 (expected)
 
 RESEARCH INTEREST
 ======
@@ -36,16 +30,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-SELECTED HONOR AND AWARD
-======
-* Excellent Graduate Award of UESTC 2017
-* The Top 1% Excellent Thesis Award of Bachelor Degree of UESTC 2017
-* National Encouragement Scholarship of UESTC 2013&2014&2015
-* Honorable Mention of Mathematical Contest in Modeling (MCM/ICM) 2016
 
-ACADEMIC ACTIVITY
-======
-* Reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-* Volunteer for the 10th International Conference on Image and Graphics
 
 
