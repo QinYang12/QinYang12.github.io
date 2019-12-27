@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Qin Yang"
-  avatar           : "yangqin.jpg"
+  avatar           : "images/yangqin.jpg"
   bio              : "A Ph.D. Candidate at Shanghai Jiao Tong University"
   location         : "Shanghai"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=H5R_FaMAAAAJ&hl=zh-CN&oi=sra"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/QinYang12"
   google_plus      :
   keybase          :
   instagram        :
