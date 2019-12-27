@@ -1,5 +1,5 @@
 ---
-title: "Probabilistic Tile Visibility-Based Server-Side Rate Adaptation for Adaptive 360-Degree Video Streaming"
+title: "Single and Sequential VIEWPORTS Prediction for 360-Degree Video Streaming"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2019-06-1
