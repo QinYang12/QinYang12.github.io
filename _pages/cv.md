@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<a href="http://QinYang12.github.io/files/icip-18.pdf">PDF</a>
+<a href="http://QinYang12.github.io/files/icip-18.pdf">More details</a>
 
 Rm. 304, No.1 SEIEE Building, 800 Dongchuan Rd.
 
