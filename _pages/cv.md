@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "<a href="http://QinYang12.github.io/files/icip-18.pdf">CV</a>"
 permalink: /cv/
 author_profile: true
 redirect_from:
