@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 
-I am a third year Ph.D. student at Shanghai Jiao Tong University. I am part of the MIN LAB, advised by
+I am a third year Ph.D. student at Shanghai Jiao Tong University. I am part of the <u><a href="http://min.sjtu.edu.cn/">MIN</a>.</u> LAB, advised by
 Prof. Junni Zou and Prof. Hongkai Xiong. 
 Prior to SJTU, I obtained my B.Eng. degree in Electronic and Information Engineering from University of Electronic Science and Technology of China (UESTC) in 2017.
 
