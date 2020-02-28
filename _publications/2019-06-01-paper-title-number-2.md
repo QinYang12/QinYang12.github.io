@@ -1,9 +1,9 @@
 ---
 title: "Probabilistic Tile Visibility-Based Server-Side Rate Adaptation for Adaptive 360-Degree Video Streaming"
 collection: publications
-permalink: /publication/jstsp19
+permalink: /publication/jstsp-19
 date: 2019-06-1
 venue: 'Junni Zou, Chenglin Li, Chengming Liu, Qin Yang, Hongkai Xiong, Eckehard Steinbach, “Probabilistic Tile Visibility-Based Server-Side Rate Adaptation for Adaptive 360-Degree Video Streaming”, accepted by IEEE Journal of Selected Topics in Signal Processing (JSTSP)'
 citation: 'Junni Zou, Chenglin Li, Chengming Liu, Qin Yang, Hongkai Xiong, Eckehard Steinbach, “Probabilistic Tile Visibility-Based Server-Side Rate Adaptation for Adaptive 360-Degree Video Streaming”, accepted by IEEE Journal of Selected Topics in Signal Processing (JSTSP).'
 ---
-[PDF](https://github.com/QinYang12/QinYang12.github.io/files/jstsp-19.pdf)
+[PDF](https://QinYang12.github.io/files/jstsp-19.pdf)
