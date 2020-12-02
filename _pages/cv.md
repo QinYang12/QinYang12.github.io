@@ -8,41 +8,52 @@ redirect_from:
 ---
 
 {% include base_path %}
-<a href="http://QinYang12.github.io/files/CV.pdf">More details</a>
-
-Rm. 304, No.1 SEIEE Building, 800 Dongchuan Rd.
-
-Email: yangqin@sjtu.edu.cn
-
-Shanghai, 200240, P.R. China
 
 Education
 ======
-* B.Eng. in Electronic and Information Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China, 2017
-* Ph.D in Computer Science and Technology, Shanghai Jiao Tong University (SJTU), Shanghai, China, 2022 (expected)
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-RESEARCH INTEREST
+Work experience
 ======
-* VR/360°/Point Cloud Vision
-* Understanding to the Signals on Non-Euclidean Domains
-* Graph Neural Network
-* Deep Reinforcement Learning
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed%}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-SELECTED HONOR AND AWARD
+Talks
 ======
-* Excellent Graduate Award of UESTC 2017
-* The Top 1% Excellent Thesis Award of Bachelor Degree of UESTC 2017
-* National Encouragement Scholarship of UESTC 2013&2014&2015
-* Honorable Mention of Mathematical Contest in Modeling (MCM/ICM) 2016
-
-ACADEMIC ACTIVITY
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
 ======
-* Reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-* Volunteer for the 10th International Conference on Image and Graphics
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
