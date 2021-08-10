@@ -1,9 +1,9 @@
 ---
-title: "Single and Sequential VIEWPORTS Prediction for 360-Degree Video Streaming"
+title: "SalGCN: Saliency Prediction for 360-Degree Images Based on Spherical Graph Convolutional Networks"
 collection: publications
-permalink: /publication/iscas-19
-date: 2019-06-1
-venue: 'Qin Yang, Junni Zou, Kexin Tang, Chenglin Li, Hongkai Xiong, “Single and Sequential VIEWPORTS Prediction for 360-Degree Video Streaming”, IEEE Int’l Symposium on Circuits & Systems (ISCAS)'
-citation: 'Qin Yang, Junni Zou, Kexin Tang, Chenglin Li, Hongkai Xiong, “Single and Sequential VIEWPORTS Prediction for 360-Degree Video Streaming”, IEEE Int’l Symposium on Circuits & Systems (ISCAS)'
+permalink: /publication/acmmm-20
+date: 2020-06-1
+venue: Haoran Lv, Qin Yang, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong, “SalGCN Saliency Prediction for 360-Degree Images Based on Spherical Graph Convolutional Networks”, ACM International Conference on Multimedia (ACMM’2020), Seattle, USA, Oct. 2020.
+citation: Haoran Lv, Qin Yang, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong, “SalGCN Saliency Prediction for 360-Degree Images Based on Spherical Graph Convolutional Networks”, ACM International Conference on Multimedia (ACMM’2020), Seattle, USA, Oct. 2020.
 ---
-[PDF](https://QinYang12.github.io/files/iscas-19.pdf)
+[PDF](https://QinYang12.github.io/files/acmmm-20.pdf)

@@ -45,4 +45,6 @@ SELECTED HONOR AND AWARD
 ACADEMIC ACTIVITY
 ======
 * Reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+* Reviewer for ACM Multimedia 2021 
+* Reviewer for ACM Multimedia 2020 
 * Volunteer for the 10th International Conference on Image and Graphics
