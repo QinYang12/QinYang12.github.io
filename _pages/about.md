@@ -20,7 +20,6 @@ RESEARCH INTEREST
 * VR/360°/Point Cloud Vision
 * Understanding to the Signals on Non-Euclidean Domains
 * Graph Neural Network
-* Deep Reinforcement Learning
 
 
 Publications
