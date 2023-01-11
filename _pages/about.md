@@ -18,8 +18,10 @@ redirect_from:
 RESEARCH INTEREST
 ======
 * VR/360°/Point Cloud Vision
-* Understanding to the Signals on Non-Euclidean Domains
 * Graph Neural Network
+* Spherical CNN
+* Understanding to the Signals on Non-Euclidean Domains
+
 
 Publications
 ======
