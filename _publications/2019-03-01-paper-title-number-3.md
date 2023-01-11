@@ -1,9 +1,8 @@
 ---
-title: "SalGCN: Saliency Prediction for 360-Degree Images Based on Spherical Graph Convolutional Networks"
+title: "Rotation-Invariant Point Cloud Segmentation With Kernel Principal Component Analysis and Geometry-Based Weighted Convolution"
 collection: publications
-permalink: /publication/acmmm-20
+permalink: /publication/cvpr-20
 date: 2020-06-1
-venue: Haoran Lv, Qin Yang, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong, “SalGCN Saliency Prediction for 360-Degree Images Based on Spherical Graph Convolutional Networks”, ACM International Conference on Multimedia (ACMM’2020), Seattle, USA, Oct. 2020.
-citation: Haoran Lv, Qin Yang, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong, “SalGCN Saliency Prediction for 360-Degree Images Based on Spherical Graph Convolutional Networks”, ACM International Conference on Multimedia (ACMM’2020), Seattle, USA, Oct. 2020.
+venue: Yuqi Li, Qin Yang, Wenrui Dai, Chenglin Li, Junni Zou, Hongkai Xiong, "Rotation-Invariant Point Cloud Segmentation With Kernel Principal Component Analysis and Geometry-Based Weighted Convolution". \textbf{submitted} to IEEE International Symposium on Circuits and Systems (ISCAS 2023).
+citation: Yuqi Li, Qin Yang, Wenrui Dai, Chenglin Li, Junni Zou, Hongkai Xiong, "Rotation-Invariant Point Cloud Segmentation With Kernel Principal Component Analysis and Geometry-Based Weighted Convolution". \textbf{submitted} to IEEE International Symposium on Circuits and Systems (ISCAS 2023).
 ---
-[PDF](https://QinYang12.github.io/files/acmmm-20.pdf)
