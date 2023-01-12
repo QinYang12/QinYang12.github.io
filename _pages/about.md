@@ -11,9 +11,9 @@ redirect_from:
 * I am a sixth year Ph.D. student at Shanghai Jiao Tong University. I am part of the <a href="http://min.sjtu.edu.cn/">MIN</a> LAB, advised by
 <a href="http://min.sjtu.edu.cn/zjn.htm">Prof. Junni Zou</a> and <a href="http://min.sjtu.edu.cn/xhk.htm">Prof. Hongkai Xiong</a>. 
 
-* 2022, I visited <a href="https://www.epfl.ch/labs/lts4/"> LTS4 lab </a> at École Polytechnique Fédérale de Lausanne (EPFL) and was co-advised by <a href="https://www.epfl.ch/labs/lts4/people/people-current/frossard/"> Prof. Pascal Frossard </a>.
+* From Mar. 2021 to Mar. 2022, I visited <a href="https://www.epfl.ch/labs/lts4/"> LTS4 lab </a> at École Polytechnique Fédérale de Lausanne (EPFL) and was co-advised by <a href="https://www.epfl.ch/labs/lts4/people/people-current/frossard/"> Prof. Pascal Frossard </a>.
 
-* Prior to SJTU, I obtained my B.Eng. degree in Electronic and Information Engineering from University of Electronic Science and Technology of China (UESTC) in 2017. From Apr. 2021 to Apr. 
+* Prior to SJTU, I obtained my B.Eng. degree in Electronic and Information Engineering from University of Electronic Science and Technology of China (UESTC) in 2017. 
 
 RESEARCH INTEREST
 ======
